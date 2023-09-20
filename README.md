@@ -5,7 +5,7 @@ Eureka server component of my microservices architecture.
 
 **Technology Stack**: Spring Boot, Eureka
 
-**Purpose**: This repository contains the Eureka server component of my microservices architecture. It serves as the service registry for all our microservices, enabling dynamic service discovery.
+**Purpose**: This repository contains the Eureka server component of my microservices architecture. It serves as the service registry for all of my microservices, enabling dynamic service discovery.
 
 **Usage**: Other microservices in our ecosystem register with this Eureka server to facilitate communication and load balancing.
 
